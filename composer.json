@@ -5,10 +5,16 @@
   "license": "GPL-3.0-or-later",
   "authors": [
     {
-      "name": "IoT Core",
-      "email": "info@iot-core.org"
+      "name": "iotcore",
+      "email": "iotcore@hotmail.com"
     }
   ],
+  "keywords": ["pdo", "database", "query-builder", "orm", "php"],
+  "homepage": "https://github.com/iot-core/pdo-class-database",
+  "support": {
+    "issues": "https://github.com/iot-core/pdo-class-database/issues",
+    "source": "https://github.com/iot-core/pdo-class-database"
+  },
   "require": {
     "php": ">=7.4",
     "ext-pdo": "*"
@@ -25,6 +31,10 @@
     "test": "phpunit --colors=always"
   },
   "minimum-stability": "stable",
-  "prefer-stable": true
+  "prefer-stable": true,
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
 }
 
