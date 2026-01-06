@@ -1,4 +1,4 @@
-# ⚡ PDO Class Database
+# ⚡ PDO DB
 PDO DB is a modern, lightweight, and framework-agnostic PHP database library designed to simplify database interactions.  
 It provides a unified and consistent API across multiple platforms including MySQL, MariaDB, PostgreSQL, SQLite, Microsoft SQL Server (MSSQL), and Oracle.  
 With built-in support for CRUD operations, transactions, prepared statements, and query building, PDOdb helps developers write secure, portable, and maintainable code with ease.
